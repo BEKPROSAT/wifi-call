@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Call</string>
+    <string name="discover">Discover Devices</string>
+    <string name="call">Call</string>
+    <string name="hangup">Hang Up</string>
+    <string name="no_devices">No devices found</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="discovering">Discovering…</string>
+    <string name="permission_required">Permission required</string>
+</resources>
